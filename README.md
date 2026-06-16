@@ -72,8 +72,8 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/andredisa/AI_services_agency.git
-cd AI-services-agency
+git clone https://github.com/yiyangch/ai_agency_service.git
+cd ai_agency_service
 ```
 
 ### 2. Create a virtual environment
@@ -169,10 +169,10 @@ Here are some cool things we’d love to add (but aren’t built in... yet 😉)
 
 If you find a bug 🐞, have a feature request ✨, or want to improve the code 💻:
 
-- Open an [Issue](https://github.com/andredisa/AI_services_agency/issues)  
-- Submit a [Pull Request](https://github.com/andredisa/AI_services_agency/pulls) 🚀  
+- Open an [Issue](https://github.com/yiyangch/ai_agency_service/issues)  
+- Submit a [Pull Request](https://github.com/yiyangch/ai_agency_service/pulls) 🚀  
 
->💬 Feel free to reach out on [GitHub](https://github.com/andredisa) or by [email](mailto:andreadisanti22@gmail.com)!
+> 💬 Questions or feedback? Reach out on Telegram: [@yutotakumi1](https://t.me/yutotakumi1)
 
 Let’s build this together!
 
@@ -185,11 +185,14 @@ Please refer to the [LICENSE](LICENSE) file for full details.
 
 ---
 
-## ☕ Support Me
+## 💬 Contact & Support
 
-If you find my work useful and would like to support me, you can buy me a coffee! Your support helps me keep creating and improving my projects. Thank you! 😊
+If you find this project useful, run into issues, or want to discuss ideas — I'd love to hear from you.
 
-<a href="https://www.buymeacoffee.com/andredisa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+- **Telegram:** [@yutotakumi1](https://t.me/yutotakumi1)
+- **GitHub Issues:** [Report a bug or request a feature](https://github.com/yiyangch/ai_agency_service/issues)
+
+Your feedback helps improve the project. Thank you! 🙏
 
 ---
 
